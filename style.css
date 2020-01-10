@@ -1,10 +1,5 @@
 @charset "utf-8";
 
-body {
-	font-family: 14px Arial, sans-serif; 
-	color: green;
-}
-
 .textbox{
 	color: green;
 	width: 100px;
