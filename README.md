@@ -1,7 +1,7 @@
 # GDA
 Gera dezenas aleatórias de loteria (megasena / quina) de acordo com o botão pressionado.
 
-Pequeno e simples projeto adicionado com o objetivo de estudo e experimento inicial da ferramenta github.
+Pequeno e simples repositório adicionado com o objetivo de estudo e experimento inicial da ferramenta github.
 
 
 ## Funcionalidade
